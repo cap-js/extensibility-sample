@@ -2,10 +2,10 @@
 // Extensions for Fiori UIs
 //
 
-using { IncidentsService } from '../../app/fiori';
+using { IncidentsService } from '@capire/incidents';
 using from './extensions';
 
-/** Add your ext fields to list pages */
+// Add your ext fields to list pages
 annotate IncidentsService.Incidents with @(
   UI.LineItem: [
     ... up to { Value: urgency }, //> new columns go after this one
@@ -14,7 +14,7 @@ annotate IncidentsService.Incidents with @(
   ],
 );
 
-/** Add your ext fields to details pages */
+// Add your ext fields to details pages
 annotate IncidentsService.Incidents with @(
   UI.Facets: [ ... up to {ID:'OverviewFacet'}, {
     $Type  : 'UI.ReferenceFacet',
