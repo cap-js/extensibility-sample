@@ -1,7 +1,7 @@
 # Verticalization and Extensibility with CAP
 
-**Description** - In this workshop you'll learn how to verticalize and customize SaaS applications using intrinsic extensibility capabilities of [SAP Cloud Application Programming Model](https://cap.cloud.sap).
-We'll offer feature-toggled verticalizations as a SaaS provider, see how to create and share prebuilt extension packages as SAP partners, which customers can reuse to compose tailored solutions.
+**Description** - In this workshop, you'll learn how to verticalize and customize SaaS applications using intrinsic extensibility capabilities of [SAP Cloud Application Programming Model](https://cap.cloud.sap).
+We'll offer feature-toggled verticalizations as a SaaS provider and see how to create and share prebuilt extension packages as SAP partners, which customers can reuse to compose tailored solutions.
 
 ## Exercises
 
@@ -12,12 +12,12 @@ We'll offer feature-toggled verticalizations as a SaaS provider, see how to crea
 - [Exercise 3 - Adding custom extensions (by SaaS Customers)](wiki/3.-Custom-Extensions)
 - [Exercise 4 - Providing pre-built extensions  (by SAP Partners)](wiki/4.-Pre-built-Extensions)
 - [Exercise 5 - Providing feature-toggled extensions (by SaaS Provider)](wiki/5.-Feature-Toggled-Extensions)
-- [Exercise 6 - Providing cusom business logic (experimental)](wiki/6.-Sandboxed-Logic)
+- [Exercise 6 - Providing custom business logic (experimental)](wiki/6.-Sandboxed-Logic)
 - [Summary](wiki/7.-Summary)
 
 ## Content
 
-This content in this repo is a so-called monorepo using npm workspaces technique.
+The content in this repo is a so-called mono repo using the npm workspaces technique.
 It contains:
 
 | Folder / File             | Description                                           |
@@ -31,7 +31,7 @@ It contains:
 ## License
 
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved.
-This project is licensed under the Apache Software License, version 2.0 except as
+This project is licensed under the Apache Software License, version 2.0, except as
 noted otherwise in the [LICENSE](LICENSE) file.
 
 ## Obtaining Support
