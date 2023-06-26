@@ -5,15 +5,15 @@ We'll offer feature-toggled verticalizations as a SaaS provider, see how to crea
 
 ## Exercises
 
-- [Introduction](wiki/Home.md)
-- [Getting Started](wiki/0.-Getting-Started.md)
-- [Exercise 1 - Building a CAP-based application (quick recap)](wiki/1.-Build-a-CAP-Application.md1.-Build-a-CAP-Application.md)
-- [Exercise 2 - Deploy as extensible SaaS app (by SaaS Provider)](wiki/2.-Deploy-as-SaaS.md2.-Deploy-as-SaaS.md)
-- [Exercise 3 - Adding custom extensions (by SaaS Customers)](wiki/3.-Custom-Extensions.md)
-- [Exercise 4 - Providing pre-built extensions  (by SAP Partners)](wiki/4.-Pre-built-Extensions.md)
-- [Exercise 5 - Providing feature-toggled extensions (by SaaS Provider)](wiki/5.-Feature-Toggled-Extensions.md)
-- [Exercise 6 - Providing cusom business logic (experimental)](wiki/6.-Sandboxed-Logic.mdn)
-- [Summary](wiki/7.-Summary.md6.-Summary)
+- [Introduction](wiki/Home)
+- [Getting Started](wiki/0.-Getting-Started)
+- [Exercise 1 - Building a CAP-based application (quick recap)](wiki/1.-Build-a-CAP-Application.md1.-Build-a-CAP-Application)
+- [Exercise 2 - Deploy as extensible SaaS app (by SaaS Provider)](wiki/2.-Deploy-as-SaaS.md2.-Deploy-as-SaaS)
+- [Exercise 3 - Adding custom extensions (by SaaS Customers)](wiki/3.-Custom-Extensions)
+- [Exercise 4 - Providing pre-built extensions  (by SAP Partners)](wiki/4.-Pre-built-Extensions)
+- [Exercise 5 - Providing feature-toggled extensions (by SaaS Provider)](wiki/5.-Feature-Toggled-Extensions)
+- [Exercise 6 - Providing cusom business logic (experimental)](wiki/6.-Sandboxed-Logic)
+- [Summary](wiki/7.-Summary)
 
 ## Content
 
