@@ -5,7 +5,7 @@ We'll offer feature-toggled verticalizations as a SaaS provider and see how to c
 
 ## Exercises
 
-- [Introduction](wiki/Home)
+- [Introduction](https://github.com/cap-js/extensibility-sample/wiki)
 - [Getting Started](wiki/0.-Getting-Started)
 - [Exercise 1 - Building a CAP-based application (quick recap)](wiki/1.-Build-a-CAP-Application.md1.-Build-a-CAP-Application)
 - [Exercise 2 - Deploy as extensible SaaS app (by SaaS Provider)](wiki/2.-Deploy-as-SaaS.md2.-Deploy-as-SaaS)
