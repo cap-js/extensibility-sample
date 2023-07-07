@@ -1,8 +1,15 @@
 {
   "name": "@capire/incidents-monorepo",
   "version": "1.0.0",
+  "scripts": {
+    "build": "npm run build -ws",
+    "dev": "npm run dev -w incidents"
+  },
   "workspaces": [
     "incidents"
   ],
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@sap/cds-dk": "^7.0.1"
+  }
 }
