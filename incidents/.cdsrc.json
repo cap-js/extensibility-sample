@@ -3,13 +3,14 @@
     "auth": {
        "users": {
           "alice": { "tenant": "t1", "roles": [ "cds.ExtensionDeveloper", "cds.Subscriber", "admin" ] },
-          "bob":   { "tenant": "t1", "roles": [ "cds.ExtensionDeveloper" ] },
+          "bob":   { "tenant": "t1", "roles": [ "cds.ExtensionDeveloper", "admin" ] },
           "carol": { "tenant": "t2", "roles": [ "cds.ExtensionDeveloper", "cds.Subscriber", "admin" ] },
           "erin":  { "tenant": "t3", "roles": [ "cds.ExtensionDeveloper", "cds.Subscriber", "admin" ] },
           "*": false
        },
        "tenants": {
-          "t2": { "features": [] },
+         "t1": { "features": [] }, 
+         "t2": { "features": [] },
           "t3": { "features": ["solar"] }
        }
     }
