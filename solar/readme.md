@@ -1,1 +1,0 @@
-This is the pre-built feature toggle -> copy to `incidents/fts/solar` to use it.

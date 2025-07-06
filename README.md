@@ -1,32 +1,11 @@
-# Verticalization and Extensibility with CAP
+# Code Extensibility with CAP using the CDS-Oyster Code Sandbox
 
-**Description** - In this workshop, you'll learn how to verticalize and customize SaaS applications using intrinsic extensibility capabilities of [SAP Cloud Application Programming Model](https://cap.cloud.sap).
-We'll offer feature-toggled verticalizations as a SaaS provider and see how to create and share prebuilt extension packages as SAP partners, which customers can reuse to compose tailored solutions.
+**Description** - In this workshop, you'll learn how to implement business logic extensions using [CDS-Oyster](https://www.npmjs.com/package/@sap/cds-oyster) for [SAP Cloud Application Programming Model](https://cap.cloud.sap).
+If you want to learn more in depth about CAP Extension capabilities, you can switch to the branch `reCAP2024` of this same repository, where you will find a workshop on the overall extensibility concept of CAP.
 
 ## Exercises
 
-- [Introduction](https://github.com/cap-js/extensibility-sample/wiki)
-- [Getting Started](https://github.com/cap-js/extensibility-sample/wiki/0.-Getting-Started)
-- [Exercise 1 - Building a CAP-based application (quick recap)](https://github.com/cap-js/extensibility-sample/wiki/1.-Build-a-CAP-Application)
-- [Exercise 2 - Deploy as extensible SaaS app (by SaaS Provider)](https://github.com/cap-js/extensibility-sample/wiki/2.-Deploy-as-SaaS)
-- [Exercise 3 - Adding custom extensions (by SaaS Customers)](https://github.com/cap-js/extensibility-sample/wiki/3.-Custom-Extensions)
-- [Exercise 4 - Providing pre-built extensions  (by SAP Partners)](https://github.com/cap-js/extensibility-sample/wiki/4.-Pre-built-Extensions)
-- [Exercise 5 - Providing feature-toggled extensions (by SaaS Provider)](https://github.com/cap-js/extensibility-sample/wiki/5.-Feature-Toggled-Extensions)
-- [Exercise 6 - Providing custom business logic (experimental)](https://github.com/cap-js/extensibility-sample/wiki/6.-Sandboxed-Logic)
-- [Summary](https://github.com/cap-js/extensibility-sample/wiki/7.-Summary)
-
-## Content
-
-The content in this repo is a so-called mono repo using the npm workspaces technique.
-It contains:
-
-| Folder / File             | Description                                           |
-| ------------------------- | ----------------------------------------------------- |
-| [exercises/](wiki/)          | A git submodule link to the repo's wiki content       |
-| [incidents/](incidents/)     | The Incidents Management SaaS application             |
-| [x-solar/](x-solar/)         | Pre-built verticalization for vendors of solar panels |
-| [x-t1/](t1x/)                | Individual extension for SaaS customer_t1_            |
-| [package.json](package.json) | Npm workspace setup                                   |
+Please proceed to the [Introduction](https://github.com/cap-js/extensibility-sample/wiki) or press the `wiki` button to find all exercises.
 
 ## License
 
