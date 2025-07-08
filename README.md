@@ -1,40 +1,32 @@
-# Business Logic Extensibility for CAP using the CDS-Oyster Code Sandbox
+# Business Logic Extensibility for CAP Using the CDS-Oyster Code Sandbox
 
 Welcome to the Extensibility Hands-On Workshop at re>≡CAP 2025.
 
 ## Overview
 
-**Description** - In this workshop, you'll learn how to implement business logic extensions using [CDS-Oyster](https://www.npmjs.com/package/@sap/cds-oyster) for [SAP Cloud Application Programming Model](https://cap.cloud.sap).
+**Description** – In this workshop, you'll learn how to implement business logic extensions using [CDS-Oyster](https://www.npmjs.com/package/@sap/cds-oyster) with the [SAP Cloud Application Programming Model (CAP)](https://cap.cloud.sap).
 
-We will explore the CDS-Oyster plugin and how it enables customers to write and deploy untrusted code to a multi-tenant SaaS application.
-Key concepts include creating bound and unbound actions, implement CRUD event handlers and testing and debugging them locally.
+We’ll explore how the CDS-Oyster plugin enables customers to safely write and deploy untrusted code in a multi-tenant SaaS application.  
+Key topics include implementing bound and unbound actions, handling CRUD events, and testing and debugging extensions locally.
 
-If you want to learn more in depth about CAP Extension capabilities, you can switch to the branch `reCAP2024` of this same repository, where you will find a workshop on the overall extensibility concept of CAP.
-
+If you're interested in a deeper dive into CAP extensibility concepts, check out the `reCAP2024` branch of this repository, which includes a more comprehensive workshop on the overall extensibility model in CAP.
 
 ## Exercise
-Please hit the `wiki` tab above, or go directly to the [workshop material](https://github.com/cap-js/extensibility-sample/wiki)
 
+To get started, click the `Wiki` tab above or go directly to the [workshop material](https://github.com/cap-js/extensibility-sample/wiki).
 
 ## Requirements
 
-To follow the exercises in this repository, you will need the following:
+To complete the exercises in this repository, you’ll need:
 
-- Access to SAP Business Application Studio or a local VS Code installation.
-- A web browser, preferably Google Chrome.
-
+- Access to SAP Business Application Studio or a local installation of Visual Studio Code.
+- A modern web browser (Google Chrome is recommended).
 
 ## License
 
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved.
-This project is licensed under the Apache Software License, version 2.0, except as
-noted otherwise in the [LICENSE](LICENSE) file.
+Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved.  
+This project is licensed under the Apache Software License, version 2.0, unless otherwise noted in the [LICENSE](LICENSE) file.
 
-## Obtaining Support
+## Support
 
-Support for the content in this repository is available during the actual time of
-the online session for which this content has been designed.
-
-
-
-
+Support for the content in this repository is available during the live online session for which this workshop was designed.
